@@ -1,6 +1,3 @@
-from itertools import count
-
-
 print("Welcome to the game!")
  
 #promt user for the input
